@@ -22,7 +22,7 @@
     position: absolute;
     top: -600px;
     right: -450px;
-    background: #FFCACA;
+    background: #aaa;
     border-radius: 50%;
 }
 #dot2
@@ -40,7 +40,7 @@
     height: 780px;
     width: 500px;
     border-radius: 30px;
-    background: #251B37;
+    background: #fff;
     border-radius: 25px;
     border: 14px solid rgb(180, 205, 230);
     box-shadow: 3px 3px 15px rgba(0,0,0,0.2);
